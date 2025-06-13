@@ -76,3 +76,6 @@ Cybersecurity & Data Governance Advocate
 > “Safe data is smart governance.”  
 > — *A guiding principle behind this research*
 
+### 📄 Research Questionnaire
+Read the full questionnaire [here →](./QUESTIONNAIRE.md)
+
